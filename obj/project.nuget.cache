@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "XbiLjx7XxpfqF6WejUx4refhoVOQ30DbJb/Rukp4g/vq1Aig4nbxl3r7m/NiZ1f7JKVkaMux5FR2xTb4LO/fyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shaha\\source\\repos\\EmailSenderProgram\\EmailSenderProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shaha\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\shaha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
